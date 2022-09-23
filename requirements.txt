@@ -13,7 +13,7 @@ joblib==0.13.2
 MarkupSafe==1.1.1
 numpy==1.16.5
 Pillow==6.2.1
-protobuf==3.10.0
+protobuf==3.18.3
 pycparser==2.19
 pyOpenSSL==19.0.0
 pytz==2019.3
