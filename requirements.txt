@@ -9,7 +9,7 @@ gunicorn==19.9.0
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.3
-joblib==0.13.2
+joblib==1.2.0
 MarkupSafe==1.1.1
 numpy==1.16.5
 Pillow==6.2.1
